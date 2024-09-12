@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">English Words App</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_skip">Skip</string>
+    <string name="title_correct">Correct!</string>
+    <string name="title_wrong">Wrong!</string>
+</resources>

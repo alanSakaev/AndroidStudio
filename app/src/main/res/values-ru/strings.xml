@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnglishWordsApp</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="button_skip">Пропустить</string>
+    <string name="title_correct">Правильно!</string>
+    <string name="title_wrong">Неправильно!</string>
+</resources>
